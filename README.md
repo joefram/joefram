@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm Joe. Currently a beginner in software engineering sutdying with HyperionDev, always striving to be better.
+I'm Joe. Currently a beginner in software engineering studying with HyperionDev, always striving to be better.
 
 ![Obi-Wan Kenobi saying "Hello there".](https://external-preview.redd.it/Y83mJkx7js__wYUkI56EXa6JA5TECWZZ4qWzlqecUBw.jpg?auto=webp&s=f1e4b4b2c55e3433480dce4387451acf89a541bd)
 
